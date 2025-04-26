@@ -8,9 +8,11 @@
 
 <!-- Título -->
 <h1 align="center" style="color:#ff63a2;">
-  <b>Olá, eu sou o </b><a href="https://github.com/emyyy007" style="color:#ff63a2;">Emily Camilly</a>
+  <b>Olá, eu sou a </b>
+  <a href="https://github.com/emyyy007" style="color:#ff63a2; text-decoration: none;">Emily Camilly</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+
 
 
 <br>
