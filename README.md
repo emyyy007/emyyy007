@@ -6,13 +6,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV4NWswYzl6b3NjZGF3aGNmMXhvaHNzcTZ4cTN3b3AweWoxaDJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="200px" alt="Hello Kitty animada"/>
 </p>
 
-<!-- Importar fonte bonita do Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-
 <!-- Título -->
-<h1 align="center" style="font-family: 'Pacifico', cursive; background: linear-gradient(90deg, #ff63a2, #ff9eb2); -webkit-background-clip: text; color: transparent; font-size: 3em;">
-  Olá, eu sou a Emily Camilly
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<h1 align="center" style="color:#ff63a2;">
+  <b>Olá, eu sou o </b>
+  <span style="color:#ff63a2;">Emily Camilly</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <br>
