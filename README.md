@@ -27,7 +27,6 @@ Amo aprender e construir coisas novas, criativas e divertidas!
 
 - 🚀 Estou animado para participar de novos projetos.
 - ✔️ Pergunte qualquer coisa! Adoro ajudar.
-- 📫 Contato: [thomasRodri@gmail.com](mailto:thomasRodri@gmail.com)
 
 <br><br>
 
