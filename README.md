@@ -15,21 +15,42 @@
 
 <br>
 
-<!-- Sobre Mim -->
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;
-<b style="font-size: 22px; color:#FF69B4;">Sobre mim</b>
+<<!-- Sobre Mim -->
+<div style="
+  font-family: 'Arial', sans-serif; 
+  color: #ff63a2; 
+  font-size: 20px; 
+  line-height: 1.6;
+  background: linear-gradient(135deg, #ffe6f0, #fff0f5);
+  padding: 25px;
+  border: 3px solid transparent;
+  border-image: linear-gradient(45deg, #ff63a2, #ffc3dc) 1;
+  border-radius: 20px;
+  box-shadow: 0 0 15px #ffb6c1;
+  margin: 20px auto;
+  max-width: 800px;
+">
 
-<!-- Gato animado lado direito -->
-<img align="right" src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200px" alt="Gatinho animado" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40" style="vertical-align: middle;">
+  <b style="font-size: 28px; margin-left: 10px;">Sobre Mim</b>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unip, atualmente no 1° período.   
-Meu objetivo é fortalecer minhas habilidades e explorar novas tecnologias. ✨  
-Amo aprender e construir coisas novas, criativas e divertidas!
+  <!-- Gato animado lado direito -->
+  <img align="right" src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="180px" alt="Gatinho animado" style="border-radius: 20px; margin-top: 10px;"/>
 
-- 🚀 Estou animado para participar de novos projetos.
-- ✔️ Pergunte qualquer coisa! Adoro ajudar.
+  <p>🎀 Olá! Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unip</b>, atualmente no 1º período.</p>
+  
+  <p>🌟 Estou super empolgada para fortalecer minhas habilidades, explorar novas tecnologias e transformar ideias criativas em projetos incríveis!</p>
+
+  <p>💡 Amo aprender, inventar coisas novas e dar vida a projetos que sejam divertidos e únicos!</p>
+
+  <ul>
+    <li>🚀 Sempre pronta para embarcar em novos desafios e projetos.</li>
+    <li>🤝 Pergunte o que quiser! Amo compartilhar e ajudar como puder.</li>
+  </ul>
+</div>
 
 <br><br>
+
 
 <!-- Troféus -->
 <div align="center">
