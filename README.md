@@ -20,7 +20,7 @@
 <tr>
 <td>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3oxcGdjdzl4NjMwem8zOW9tbTFkNmNxejAyNm4wNXAzaG4yc3RtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7Rr8dZTaGxKVtYNg4/giphy.gif" width="40">
 <b style="font-size: 26px; color: #ff63a2;"> Sobre Mim</b>
 
 <!-- Gato animado -->
