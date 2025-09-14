@@ -1,85 +1,36 @@
-<!-- Linha Neon -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
 
-<!-- Hello Kitty Topo -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV4NWswYzl6b3NjZGF3aGNmMXhvaHNzcTZ4cTN3b3AweWoxaDJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="200px" alt="Hello Kitty animada"/>
-</p>
+## 🎀,, ⋆👩‍💻 ᴛᴇᴄʜ ɢɪʀʟ⋆ ၊၊၊.܁˖
 
-<!-- Título -->
-<h1 align="center" style="color:#ff63a2;">
-  <b>Olá, eu sou a </b><a href="https://github.com/emyyy007" style="color:#ff63a2;">Emily Camilly</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79DDB&width=435&lines=Estudando+de+ADS)](https://git.io/typing-svg)
+##
 
+⋅°₊ • ୨୧ ‧₊° ⋅𝘚𝘰𝘶 𝘦𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦 𝘥𝘦 𝘈𝘯á𝘭𝘪𝘴𝘦 𝘦 𝘋𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘪𝘮𝘦𝘯𝘵𝘰 𝘥𝘦 𝘚𝘪𝘴𝘵𝘦𝘮𝘢𝘴, 𝘦 𝘢𝘥𝘰𝘳𝘰 𝘤𝘰𝘥𝘢𝘳. 𝘚𝘦𝘮 𝘮𝘶𝘪𝘵𝘢 𝘦𝘹𝘱𝘦𝘳𝘪ê𝘯𝘤𝘪𝘢, 𝘱𝘰𝘳é𝘮 𝘴𝘦𝘮𝘱𝘳𝘦 𝘤𝘰𝘮 𝘤𝘶𝘳𝘪𝘰𝘴𝘪𝘥𝘢𝘥𝘦 𝘱𝘢𝘳𝘢 𝘢𝘱𝘳𝘦𝘯𝘥𝘦𝘳 𝘮𝘢𝘪𝘴!
 
-<br>
+૮꒰ ˶• ༝ •˶꒱ა ♡ 𝘎𝘰𝘴𝘵𝘰 𝘮𝘶𝘪𝘵𝘰 𝘥𝘦 𝘗𝘺𝘵𝘩𝘰𝘯!
 
-<!-- Sobre Mim -->
-<table align="center" width="80%" style="background-color: #ffe6f0; border: 2px solid #ff63a2; border-radius: 15px; padding: 20px;">
-<tr>
-<td>
+°❀⋆.ೃ࿔*:･ 𝚂𝚎𝚓𝚊𝚖 𝚋𝚎𝚖 𝚟𝚒𝚗𝚍𝚘𝚜!
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzd6NnoyZ3dldnh6MnlsYjB4YWhlMzZmeGF1bTI5YTkwdjdwbzBnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif" width="40">
-<b style="font-size: 26px; color: #ff63a2;"> Sobre Mim</b>
-
-<!-- Gato animado -->
-<img align="right" src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" alt="Gatinho" style="border-radius: 15px;">
-
-<p style="color: #ff63a2; font-size: 18px;">
-🎀 Olá! Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unip</b>, atualmente no 1º período.
-</p>
-
-<p style="color: #ff63a2; font-size: 18px;">
-🌟 Estou super empolgada para fortalecer minhas habilidades, explorar novas tecnologias e transformar ideias criativas em projetos incríveis!
-</p>
-
-<p style="color: #ff63a2; font-size: 18px;">
-💡 Amo aprender, inventar coisas novas e dar vida a projetos que sejam divertidos e únicos!
-</p>
-
-<ul style="color: #ff63a2; font-size: 18px;">
-  <li>🚀 Sempre pronta para embarcar em novos desafios e projetos.</li>
-  <li>🤝 Pergunte o que quiser! Amo compartilhar e ajudar como puder.</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-
-<!-- Troféus -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThomasRodri&theme=dracula&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&title=Pink" width="90%" />
-  </a>
+<div aling= "center">
+<img src= "https://github-readme-stats.vercel.app/api?username=emyyy007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emyyy007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<br>
+#⋆.˚✮🎧✮˚.⋆ 𝘔𝘪𝘯𝘩𝘢𝘴 𝘧𝘦𝘳𝘳𝘢𝘮𝘦𝘯𝘵𝘢𝘴
+<div>
+౨ৎ ⋆｡˚ 𝘌𝘴𝘴𝘢𝘴 𝘴ã𝘰 𝘢𝘴 𝘧𝘦𝘳𝘳𝘢𝘮𝘦𝘯𝘵𝘢𝘴 𝘲𝘶𝘦 𝘦𝘶 𝘶𝘴𝘰.
+<h2>‧₊ ᵎᵎ 🍒 ⋅ ˚✮Linguagens de Programação</h2>
+<img align="center" alt="Emy-C" height="40px" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
+<img align="center" alt="Emy-Python" height="40px" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Emy-HTML" height="40px" width="40px"          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
-<!-- Redes Sociais -->
-<div align="center" style="margin-top: 20px;">
-  <a href="semilycamilly16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/emily-camilly-559406237/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/emy_queiroz007/following/">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br><br>
+<img src="https://i.pinimg.com/originals/02/35/15/02351588254d48724a0d4b534a83b087.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 669px; height: 157px; margin: 0px; width: 106px;" alt="Darling In The Franxx 02 - (1200x1200) Png Clipart Download. ClipartMax.com" jsname="kn3ccd">                   
+</div>  
+<h2>⋆｡‧˚ʚ🍓ɞ˚‧｡⋆𝘊𝘰𝘯𝘵𝘢𝘵𝘰𝘴</h2>
 
 
-<!-- Mais Gatinhos no final -->
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1365027756165042309/1365744449002536960/8f8e05d39d4ed68709855b70a76d4057.jpg?ex=680e6c22&is=680d1aa2&hm=47826c6164ade7f87238e0c824e67ec8f6216de5e7f3b16e67d5de4ad974678e&" width="150px" alt="Gatinho animado" />
-  <img src="https://cdn.discordapp.com/attachments/1365027756165042309/1365744448754946138/c04015c94ef075726f6d484168ceed9d.jpg?ex=680e6c22&is=680d1aa2&hm=ed6b23178308f2e7446eccf7ad2413744d1962fa5f8c525bfb1a66911c29ed15&" width="150px" alt="Gatinho animado" />
-</p>
+          
 
-<br><br>
-
-<!-- Linha Neon -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
