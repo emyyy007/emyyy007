@@ -27,10 +27,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <img align="center" alt="Emy-HTML" height="40px" width="40px"          
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
-<img src="https://i.pinimg.com/originals/02/35/15/02351588254d48724a0d4b534a83b087.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 669px; height: 157px; margin: 0px; width: 106px;" alt="Darling In The Franxx 02 - (1200x1200) Png Clipart Download. ClipartMax.com" jsname="kn3ccd">                   
+<img src="https://i.pinimg.com/originals/02/35/15/02351588254d48724a0d4b534a83b087.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 669px; height: 157px; margin: 50px; width: 106px;" alt="Darling In The Franxx 02 - (1200x1200) Png Clipart Download. ClipartMax.com" jsname="kn3ccd">                   
 </div>  
 <h2>⋆｡‧˚ʚ🍓ɞ˚‧｡⋆𝘊𝘰𝘯𝘵𝘢𝘵𝘰𝘴</h2>
-
+<div align="center" style="margin-top: 20px;">
+  <a href="semilycamilly16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFA6C5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emily-camilly-559406237/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFA6C5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/emy_queiroz007/following/">
+    <img src="https://img.shields.io/badge/Instagram-FFA6C5?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
 
           
 
